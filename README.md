@@ -1,2 +1,2 @@
-# pandas_challenge
+# pandas-challenge
 Module 4 Challenge
