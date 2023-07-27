@@ -1,0 +1,13 @@
+Written Report 
+Summarizes the analysis
+
+We examined the academic performance of different schools ( Charter school vs District school) based on various metrics such as average math and reading scores, as well as the percentage of students passing math, reading, and overall.
+The dataframe provided the information for each school, including its type, size, busget, and academic performance.
+
+
+Conclusions and Comparisons
+
+There's a good differences in average scores between different school types.
+
+Charter schools tend to have higher overall passing percentage.  May suggest that the charter school could be implementing a better teaching methods. 
+Charter schools shows higher math and reading scores on average compares to District school. 
